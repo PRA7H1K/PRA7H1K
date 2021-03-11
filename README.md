@@ -2,7 +2,7 @@
 
 My name is Prathik Pradeep. I'm a student and developer based in the United States and specialize in Python. I also know JavaScript, C#, HTML, CSS, and SQL. I like to build websites and other dynamic applications similar to my Discord bot or my URL shortener. My brother and I also plan on establishing a non-profit organization to empower teenagers in programming. In my meantime, I attend school and undertake some extra-curricular activities. One of my goals is to create a software company and publish applications for the world to use.
 
-## My Website
+### My Website
 https://prathik.me
 
 ## My Projects
