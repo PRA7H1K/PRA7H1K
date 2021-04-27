@@ -5,7 +5,7 @@ My name is Prathik Pradeep. I'm a student and developer based in the United Stat
 ### My Website
 https://prathik.me
 
-## Languages & Frameworks I Know
+## Languages & Frameworks I Use
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C-Sharp](http://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,8 +15,9 @@ https://prathik.me
 ![Django](http://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Technologies I Know
+## Technologies I Use
 ![Linux](http://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=linux&logoColor=black)
+![Vultr](https://img.shields.io/badge/Vultr-007bfc?style=for-the-badge&logo=vultr&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Django](http://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
