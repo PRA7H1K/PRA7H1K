@@ -5,6 +5,16 @@ My name is Prathik Pradeep. I'm a student and developer based in the United Stat
 ### My Website
 https://prathik.me
 
+## Language I Know
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+
+## Technologies I Know
+![Linux](http://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=linux&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+
 ## My Projects
 
 ### [TECProject](https://coderproject.tech)
