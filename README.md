@@ -15,7 +15,7 @@ https://prathik.me
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 
 ## Technologies I Know
-![Linux](http://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Django](http://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 
