@@ -22,4 +22,4 @@ AtomURL is a simple, free, and easy to use URL shortener.
 There's no need for a login or subscription. You can create a
 shortened url in seconds!
 
-[![Prathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRA7H1K&show_icons=true&theme=vue)](https://github.com/PRA7H1K/github-readme-stats)
+[![Prathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRA7H1K&show_icons=true&theme=vue)]
