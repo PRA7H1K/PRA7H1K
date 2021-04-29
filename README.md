@@ -22,7 +22,7 @@ https://prathik.me
 ![VS Code](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Powered By 
-![Vultr](https://img.shields.io/badge/Vultr-007bfc?style=for-the-badge&logo=vultr&logoColor=white)
+[![Vultr](https://img.shields.io/badge/Vultr-007bfc?style=for-the-badge&logo=vultr&logoColor=white)](https://vultr.com)
 
 ## My Projects
 
