@@ -20,10 +20,10 @@ https://prathik.me
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PostgreSQL](http://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](http://img.shields.io/badge/-PyCharm-007ACA?style=for-the-badge&logo=pycharm&logoColor=white)
+![PyCharm](http://img.shields.io/badge/-PyCharm-007AEW?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ### Powered By 
-[![Vultr](https://img.shields.io/badge/Vultr-007aew?style=for-the-badge&logo=vultr&logoColor=white)](https://vultr.com)
+[![Vultr](https://img.shields.io/badge/Vultr-007ACC?style=for-the-badge&logo=vultr&logoColor=white)](https://vultr.com)
 
 ## My Projects
 
