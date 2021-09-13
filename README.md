@@ -23,7 +23,7 @@ https://prathik.me
 ![PyCharm](http://img.shields.io/badge/-PyCharm-007ACA?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ### Powered By 
-[![Vultr](https://img.shields.io/badge/Vultr-007bfc?style=for-the-badge&logo=vultr&logoColor=white)](https://vultr.com)
+[![Vultr](https://img.shields.io/badge/Vultr-007aew?style=for-the-badge&logo=vultr&logoColor=white)](https://vultr.com)
 
 ## My Projects
 
