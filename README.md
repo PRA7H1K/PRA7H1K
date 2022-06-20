@@ -3,7 +3,7 @@
 My name is Prathik Pradeep. I'm a student and developer based in the United States and specialize in Python. I also know JavaScript, C#, HTML, CSS, and SQL. I like to build websites and other dynamic applications. [My brother](https://github.com/pranav-pradeep) and I also plan on establishing a non-profit organization to empower teenagers in programming. In my meantime, I attend school and undertake some extra-curricular activities. One of my goals is to create a software company and publish applications for the world to use.
 
 ### My Website
-https://prathik.me
+https://prathikpradeep.com
 
 ## Languages & Frameworks I Use
 [![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
