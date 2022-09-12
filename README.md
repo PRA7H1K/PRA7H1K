@@ -25,23 +25,6 @@ https://prathikpradeep.com
 ### Powered By 
 [![Vultr](https://img.shields.io/badge/Vultr-007ACC?style=for-the-badge&logo=vultr&logoColor=white)](https://vultr.com)
 
-## My Projects
-
-### [TECProject](https://coderproject.tech)
-The Everyday Coder Project is a non-profit organization to
-empower teenagers to program in Python, HTML, and CSS.
-
-### [E X 0](https://exobot.xyz)
-E X O is a Verified Discord Bot that suits every need.
-It performs 75+ commands in Moderation, Utility,
-Fun, Math, Meme, Animal, News and more! EXO also has
-over 250,000 users on Discord!
-
-### [AtomURL](https://github.com/PRA7H1K/atom)
-AtomURL is a simple, free, and easy to use URL shortener.
-There's no need for a login or subscription. You can create a
-shortened url in seconds!
-
 [![Prathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRA7H1K&show_icons=true&theme=vue)](https://github.com/pra7h1k)
 <br>
 <img src="https://komarev.com/ghpvc/?username=PRA7H1K&color=blue&style=flat-square">
