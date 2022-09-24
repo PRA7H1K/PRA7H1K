@@ -25,6 +25,6 @@ https://prathikpradeep.com
 ### Powered By 
 [![Vultr](https://img.shields.io/badge/DigitalOcean-008bcf?style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com)
 
-[![Prathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRA7H1K&show_icons=true&theme=vue)](https://github.com/pra7h1k)
+<!---[![Prathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRA7H1K&show_icons=true&theme=vue)](https://github.com/pra7h1k)-->
 <br>
 <img src="https://komarev.com/ghpvc/?username=PRA7H1K&color=blue&style=flat-square">
