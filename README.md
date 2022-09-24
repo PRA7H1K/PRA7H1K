@@ -23,7 +23,7 @@ https://prathikpradeep.com
 ![PyCharm](http://img.shields.io/badge/-PyCharm-007AEW?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ### Powered By 
-[![Vultr](https://img.shields.io/badge/Vultr-007ACC?style=for-the-badge&logo=vultr&logoColor=white)](https://vultr.com)
+[![Vultr](https://img.shields.io/badge/DigitalOcean-008bcf?style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com)
 
 [![Prathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRA7H1K&show_icons=true&theme=vue)](https://github.com/pra7h1k)
 <br>
