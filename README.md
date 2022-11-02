@@ -5,7 +5,7 @@ My name is Prathik Pradeep. I'm a student and developer based in the United Stat
 ### My Website
 https://prathikpradeep.com
 
-## Languages & Frameworks I Use
+## Languages & Frameworks I Have Used
 [![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![C-Sharp](http://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
